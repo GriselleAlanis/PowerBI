@@ -17,7 +17,7 @@ Dicho análisis debe basarse en los diversos factores que podemos medir en el co
 Los datos suministrados provienen de fuentes de datos de acceso público que contiene información relacionada TXT, Excel, PDF, carpetas con archivos, Google Sheets, Dropbox. Estos datos incluyen detalles sobre los registros referentes a las categorías de sus productos y regiones.
 
 ### 1.2.1 Obtención de los datos
-Estos datos han sido obtenidos de manera pública y gratuita a través      . El contexto se basa en la necesidad de crear un modelo de respuesta para conocer de manera significativa los indicadores de ganancias y porcentaje de beneficios.
+Estos datos han sido obtenidos de manera pública y gratuita a través del siguiente enlace      . El contexto se basa en la necesidad de crear un modelo de respuesta para conocer de manera significativa los indicadores de ganancias y porcentaje de beneficios.
 
 ## 1.3 ETL
 
