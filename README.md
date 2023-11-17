@@ -33,7 +33,7 @@ Las transformaciones a las tablas de datos se han hecho desde Query Editor.
 
 ## 1.4 Relación entre tablas
 
-La relación entre las tablas ha sido de uno a uno, un registro de una tabla se asocia a uno y solo un registro de otra tabla.
+La relación entre las tablas ha sido de uno a varios (1:*), un registro de una tabla se asocia a varios registros de otra tabla.
 
 ## 1.5 Visualizaciones
 
