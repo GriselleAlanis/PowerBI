@@ -1,7 +1,7 @@
 
 # PowerBI - IBM Datahack
 
-# *1. Capstone Project*
+# *. Capstone Project*
 
 Proyecto final:
 
