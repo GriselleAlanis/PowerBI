@@ -34,6 +34,10 @@ Link de las fuentes de datos [enlace](https://github.com/GriselleAlanis/PowerBI/
 
 - Modelo de datos relacional - Modelo de Estrella
 
+### Medidas DAX
+
+- Expresiones condicionales y medidas DAX.
+
 ### Visualizaciones
 
 1. Una hoja de la visión general de los datos.
